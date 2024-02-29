@@ -1,4 +1,4 @@
--👋 Olá! Eu sou [Seu Nome], um Analista de Dados apaixonado por transformar dados em insights acionáveis. 
+-👋 Olá! Eu sou Ana Vitória Rodrigues, um Analista de Dados apaixonado por transformar dados em insights acionáveis. 
 
 💼 Atualmente, estou mergulhado em análises de dados na [Empresa/Organização], onde trabalho para extrair valor de conjuntos de dados complexos e orientar decisões estratégicas.
 
