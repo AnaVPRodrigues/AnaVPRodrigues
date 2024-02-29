@@ -4,7 +4,7 @@
 
 🔍 Minha jornada profissional é uma mistura de habilidades em análise estatística, modelagem de dados e visualização de dados, sempre buscando entender o contexto de negócios por trás dos números. 
 
-📊 Tenho experiência em SQL, Python, R, Tableau,Panda,DataFrames,Lambda e List Comprehention , e estou constantemente aprendendo e explorando novas técnicas para aprimorar minha prática.
+📊 Tenho experiência em SQL, Python, R, Tableau, Panda, DataFrames, Lambda ,List Comprehention , Linguagem DAX, M  e estou constantemente aprendendo e explorando novas técnicas para aprimorar minha prática.
 
 📈 Além do meu trabalho diário, sou um entusiasta de código aberto e acredito na comunidade de dados. 
 
